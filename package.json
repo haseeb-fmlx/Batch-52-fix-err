@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/haseeb-fmlx/Batch-52-fix-err/issues"
   },
-  "homepage": "https://github.com/haseeb-fmlx/Batch-52-fix-err#readme"
+  "homepage": "https://github.com/haseeb-fmlx/Batch-52-fix-err#readme",
+  "dependencies": {
+    "joi": "^17.11.0"
+  }
 }
